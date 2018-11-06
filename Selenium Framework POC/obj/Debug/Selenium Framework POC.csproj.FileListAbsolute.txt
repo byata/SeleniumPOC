@@ -1,0 +1,17 @@
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\Selenium Framework POC.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\Selenium Framework POC.pdb
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\obj\Debug\Selenium Framework POC.csprojAssemblyReference.cache
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\obj\Debug\Selenium Framework POC.csproj.CoreCompileInputs.cache
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\obj\Debug\Selenium Framework POC.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\obj\Debug\Selenium Framework POC.pdb
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\WebDriver.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\WebDriver.Support.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\WebDriver.xml
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\WebDriver.Support.xml
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\obj\Debug\Selenium Framework POC.csproj.CopyComplete
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\ExcelDataReader.dll
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\ExcelDataReader.xml
+C:\Users\byata\Source\Repos\Selenium Framework POC\Selenium Framework POC\bin\Debug\ExcelDataReader.DataSet.xml
